@@ -1,7 +1,7 @@
 package system
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
+	"github.com/zouchangfu/QanLong/global"
 )
 
 type SysBaseMenu struct {

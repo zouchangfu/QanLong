@@ -3,13 +3,13 @@ package initialize
 import (
 	"net/http"
 
-	_ "github.com/flipped-aurora/gin-vue-admin/server/docs"
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/middleware"
-	"github.com/flipped-aurora/gin-vue-admin/server/router"
 	"github.com/gin-gonic/gin"
 	"github.com/swaggo/gin-swagger"
 	"github.com/swaggo/gin-swagger/swaggerFiles"
+	_ "github.com/zouchangfu/QanLong/docs"
+	"github.com/zouchangfu/QanLong/global"
+	"github.com/zouchangfu/QanLong/middleware"
+	"github.com/zouchangfu/QanLong/router"
 )
 
 // 初始化总路由
@@ -17,6 +17,7 @@ import (
 func Routers() *gin.Engine {
 	Router := gin.Default()
 	systemRouter := router.RouterGroupApp.System
+	businessRouter := router.RouterGroupApp.Business
 	// 如果想要不使用nginx代理前端网页，可以修改 web/.env.production 下的
 	// VUE_APP_BASE_API = /
 	// VUE_APP_BASE_PATH = http://localhost
@@ -64,6 +65,7 @@ func Routers() *gin.Engine {
 		systemRouter.InitSysDictionaryDetailRouter(PrivateGroup) // 字典详情管理
 		systemRouter.InitAuthorityBtnRouterRouter(PrivateGroup)  // 字典详情管理
 		systemRouter.TestUserRouter(PrivateGroup)
+		businessRouter.InitTaskRouter(PrivateGroup)
 	}
 
 	global.GVA_LOG.Info("router register success")

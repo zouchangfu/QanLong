@@ -1,0 +1,120 @@
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:40:15.854	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:40:15.856	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:40:15.856	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:40:15.856	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:40:15.859	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:40:15.863	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:50:19.099	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:50:19.101	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:50:19.101	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:50:19.101	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:50:19.104	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:50:19.107	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:55:39.728	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:55:39.730	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:55:39.730	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:55:39.730	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:55:39.733	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:55:39.742	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:57:19.959	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:57:19.960	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:57:19.960	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:57:19.961	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:57:19.965	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 22:57:19.976	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:00:09.072	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:00:09.074	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:00:09.074	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:00:09.075	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:00:09.078	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:00:09.089	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:03:05.584	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:03:05.586	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:03:05.586	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:03:05.586	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:03:05.589	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:03:05.594	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:08:25.830	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:08:25.831	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:08:25.831	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:08:25.832	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:08:25.835	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:08:25.840	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:09:45.486	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:09:45.487	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:09:45.487	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:09:45.488	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:09:45.491	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:09:45.497	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:13:49.974	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:13:49.976	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:13:49.976	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:13:49.977	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:13:49.980	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:13:49.982	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:16:30.593	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:16:30.594	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:16:30.594	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:16:30.595	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:16:30.598	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:16:30.600	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:29:40.953	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:29:40.954	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:29:40.954	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:29:40.954	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:29:40.958	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:29:40.963	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:31:17.678	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:31:17.679	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:31:17.679	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:31:17.679	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:31:17.682	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:31:17.687	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:33:12.607	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:33:12.608	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:33:12.608	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:33:12.608	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:33:12.612	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:33:12.626	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:35:54.290	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:35:54.291	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:35:54.291	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:35:54.292	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:35:54.296	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:35:54.310	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:38:17.578	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:38:17.579	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:38:17.580	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:38:17.580	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:38:17.584	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:38:17.595	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:39:58.875	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:39:58.877	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:39:58.877	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:39:58.877	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:39:58.880	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:39:58.892	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:41:58.268	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:41:58.269	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:41:58.270	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:41:58.270	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:41:58.273	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:41:58.275	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:45:17.718	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:45:17.719	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:45:17.719	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:45:17.720	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:45:17.723	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:45:17.735	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:48:08.313	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:48:08.315	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:48:08.315	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:48:08.315	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:48:08.318	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:48:08.325	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:49:34.169	[34minfo[0m	D:/workplace-go/QanLong/initialize/gorm.go:61	register table success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:49:34.171	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:32	use middleware logger
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:49:34.171	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:36	use middleware cors
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:49:34.171	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:38	register swagger handler
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:49:34.175	[34minfo[0m	D:/workplace-go/QanLong/initialize/router.go:71	router register success
+[github.com/zouchangfu/QanLong]2022/06/29 - 23:49:34.185	[34minfo[0m	D:/workplace-go/QanLong/core/server.go:42	server run success on 	{"address": ":9527"}

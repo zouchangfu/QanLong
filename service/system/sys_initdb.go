@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"errors"
 	"fmt"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/system/request"
+	"github.com/zouchangfu/QanLong/model/system/request"
 )
 
 const (

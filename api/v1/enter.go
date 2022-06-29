@@ -1,11 +1,13 @@
 package v1
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/api/v1/system"
+	"github.com/zouchangfu/QanLong/api/v1/business"
+	"github.com/zouchangfu/QanLong/api/v1/system"
 )
 
 type ApiGroup struct {
-	SystemApiGroup system.ApiGroup
+	SystemApiGroup        system.ApiGroup
+	DetectTaskResultGroup business.ApiGroup
 }
 
 var ApiGroupApp = new(ApiGroup)

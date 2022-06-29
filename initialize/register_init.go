@@ -1,7 +1,7 @@
 package initialize
 
 import (
-	_ "github.com/flipped-aurora/gin-vue-admin/server/source/system"
+	_ "github.com/zouchangfu/QanLong/source/system"
 )
 
 func init() {

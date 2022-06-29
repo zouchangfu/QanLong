@@ -1,8 +1,8 @@
 package internal
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
 	rotatelogs "github.com/lestrrat-go/file-rotatelogs"
+	"github.com/zouchangfu/QanLong/global"
 	"go.uber.org/zap/zapcore"
 	"os"
 	"path"

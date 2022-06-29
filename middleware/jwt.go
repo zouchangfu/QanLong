@@ -4,12 +4,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/utils"
+	"github.com/zouchangfu/QanLong/utils"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/response"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/system"
-	"github.com/flipped-aurora/gin-vue-admin/server/service"
+	"github.com/zouchangfu/QanLong/global"
+	"github.com/zouchangfu/QanLong/model/common/response"
+	"github.com/zouchangfu/QanLong/model/system"
+	"github.com/zouchangfu/QanLong/service"
 
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"

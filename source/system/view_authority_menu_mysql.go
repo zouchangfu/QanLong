@@ -3,13 +3,13 @@ package system
 import (
 	"context"
 	"fmt"
-	"github.com/flipped-aurora/gin-vue-admin/server/service/system"
+	"github.com/zouchangfu/QanLong/service/system"
 	"gorm.io/gorm"
 	"strings"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	sysModel "github.com/flipped-aurora/gin-vue-admin/server/model/system"
 	"github.com/pkg/errors"
+	"github.com/zouchangfu/QanLong/global"
+	sysModel "github.com/zouchangfu/QanLong/model/system"
 )
 
 const initOrderMenuViewMysql = initOrderMenuAuthority + 1

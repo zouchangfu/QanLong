@@ -4,7 +4,7 @@ package system
 import (
 	"time"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
+	"github.com/zouchangfu/QanLong/global"
 )
 
 // 如果含有time.Time 请自行import time包

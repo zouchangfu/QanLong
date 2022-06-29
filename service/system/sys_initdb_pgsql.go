@@ -3,12 +3,12 @@ package system
 import (
 	"context"
 	"errors"
-	"github.com/flipped-aurora/gin-vue-admin/server/config"
-	"github.com/flipped-aurora/gin-vue-admin/server/utils"
 	"github.com/gookit/color"
+	"github.com/zouchangfu/QanLong/config"
+	"github.com/zouchangfu/QanLong/utils"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
 	uuid "github.com/satori/go.uuid"
+	"github.com/zouchangfu/QanLong/global"
 )
 
 type PgsqlInitHandler struct{}

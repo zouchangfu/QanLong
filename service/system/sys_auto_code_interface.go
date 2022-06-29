@@ -1,7 +1,7 @@
 package system
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/model/system/response"
+	"github.com/zouchangfu/QanLong/model/system/response"
 )
 
 type Database interface {

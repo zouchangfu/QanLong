@@ -2,9 +2,9 @@ package system
 
 import (
 	"fmt"
-	"github.com/flipped-aurora/gin-vue-admin/server/middleware"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/response"
 	"github.com/gin-gonic/gin"
+	"github.com/zouchangfu/QanLong/middleware"
+	"github.com/zouchangfu/QanLong/model/common/response"
 )
 
 type TestRouter struct{}
