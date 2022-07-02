@@ -21,7 +21,7 @@ func (m *Task) AddTask(c *gin.Context) {
 		Ports:     t.Ports,
 		Status:    t.Status,
 	}
-	err := detectTaskService.AddTask(task)
+	err := detectTaskService.Add(task)
 	if err != nil {
 		response.Fail(c)
 	}
@@ -31,7 +31,7 @@ func (m *Task) AddTask(c *gin.Context) {
 func (m *Task) DeleteTask(c *gin.Context) {
 	param := c.Query("id")
 	atoi, _ := strconv.Atoi(param)
-	err := detectTaskService.DeleteTask(atoi)
+	err := detectTaskService.Delete(atoi)
 	if err != nil {
 		response.Fail(c)
 	}

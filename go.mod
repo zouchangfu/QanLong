@@ -3,6 +3,7 @@ module github.com/zouchangfu/QanLong
 go 1.16
 
 require (
+	github.com/Ullaakut/nmap/v2 v2.2.0 // indirect
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
 	github.com/aliyun/aliyun-oss-go-sdk v2.1.6+incompatible
 	github.com/aws/aws-sdk-go v1.42.27

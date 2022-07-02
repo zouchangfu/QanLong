@@ -1,6 +1,9 @@
 package request
 
+import "github.com/zouchangfu/QanLong/global"
+
 type AssetDetectResult struct {
+	global.GVA_MODEL
 	TaskId          string `json:"TaskId" `
 	Ip              string `json:"Ip"`
 	Mac             string `json:"Mac"`
@@ -9,5 +12,5 @@ type AssetDetectResult struct {
 }
 
 func (AssetDetectResult) TableName() string {
-	return "asset_detect_result"
+	return "base_asset_detect_result"
 }
